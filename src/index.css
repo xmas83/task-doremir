@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #11001c;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.player-container {
+  text-align: center;
+}
+
+button {
+  color: white;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  font-size: 2rem;
+  margin: 10px;
+}
